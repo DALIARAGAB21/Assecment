@@ -38,7 +38,7 @@ class Loginnewsecreen extends StatelessWidget {
                 }
                 return null;
               },
-            ),
+            ),//;l,;;
 
             const SizedBox(height: 5),
             Signupwidget(
